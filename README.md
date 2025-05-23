@@ -1,5 +1,5 @@
 # 👋🏻 Introducción
-Desarrollador backend con mayor experiencia en Java y Python de mi estudios en DAM y prácticas, com una pasión por crear sistemas que no solo funcionen, sino que destaquen por su rendimiento, escalabilidad y seguridad.
+Desarrollador backend con mayor experiencia en Java y Python de mi estudios en DAM y prácticas, con una pasión por crear sistemas que no solo funcionen, sino que destaquen por su rendimiento, escalabilidad y seguridad.
 
 Aquí compartiré mis proyectos y todo lo que voy aprendiendo.
 
