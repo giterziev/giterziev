@@ -1,3 +1,6 @@
+<!--
+Icons: https://github.com/tandpfun/skill-icons
+-->
 # 👋🏻 Introducción
 Desarrollador backend con mayor experiencia en Java y Python de mi estudios en DAM y prácticas, con una pasión por crear sistemas que no solo funcionen, sino que destaquen por su rendimiento, escalabilidad y seguridad.
 
@@ -5,36 +8,53 @@ Aquí compartiré mis proyectos y todo lo que voy aprendiendo.
 
 # 🔧 Tecnologías aprendidas:
 ### 🖥️ Backend:
-![image](https://github.com/user-attachments/assets/ff0b5cc0-20b7-4e50-b984-5afc2b984f80)
-![image](https://github.com/user-attachments/assets/c635cc84-9e09-468d-bb79-5eacd9b25b03)
-![image](https://github.com/user-attachments/assets/706476eb-5e3d-44f6-adca-c83f2eb3667d)
-![image](https://github.com/user-attachments/assets/31101274-a645-4629-a746-261be76e1faa)
-![image](https://github.com/user-attachments/assets/7a5c1880-8be7-40d7-b70b-43e87e5eeb0f)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
+[![My Skills](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org/)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://spring.io/)
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 
 ### 📋 Frontend:
-![image](https://github.com/user-attachments/assets/d9236d38-bce0-4d08-bd34-1ec5148bbf98)
-![image](https://github.com/user-attachments/assets/50783067-73c4-4689-8e9d-52b76cd4f307)
-![image](https://github.com/user-attachments/assets/d411b3fa-8b5b-4464-b0e4-4ab8224d02c8)
+[![My Skills](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=less)](https://lesscss.org/)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 ![image](https://github.com/user-attachments/assets/b68fe138-f638-4442-bc8a-2f01b90dd045)
 
 ### 📁 Bases de datos:
-![image](https://github.com/user-attachments/assets/71d54db9-c9d2-4c1b-9962-dd5382af73e8)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/)
 ![image](https://github.com/user-attachments/assets/850cdc2f-4198-4904-ba00-b7e5e85e10cb)
-![image](https://github.com/user-attachments/assets/e2490a07-9631-492c-aafa-010ce24775bb)
 
 ### 💻 Control de versiones:
-![image](https://github.com/user-attachments/assets/111a2f62-c3f6-45e6-baa1-011ee6f482f9)
-![image](https://github.com/user-attachments/assets/17c7cbe4-644b-494a-8eac-f85b2339b631)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
 
 ### 🛠️ Herramientas:
-![image](https://github.com/user-attachments/assets/88fe8482-ec97-4985-b18e-f6c58d880d7a)
-![image](https://github.com/user-attachments/assets/f5a44425-3867-4192-bc22-68a6f58ac345)
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://eclipseide.org/)
+[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![My Skills](https://skillicons.dev/icons?i=maven)](https://maven.apache.org/)
+[![My Skills](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
+[![My Skills](https://skillicons.dev/icons?i=sublime)](https://www.sublimetext.com/)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
+### 💻 OS:
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-us/windows)
 
 
 # 📖 Sobre este repositorio:
 🤲🏻 Este repositorio es una recopilación de mis proyectos personales, contribuciones y colaboraciones.
 
 💡 Mi objetivo es explorar y experimentar con diversas tecnologías y mejorar mis habilidades.
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/georgi-iliev-terziev/)
 
 
 <!--
